@@ -30,7 +30,7 @@ I'm a versatile developer focused on building modern, scalable web and mobile ap
 
 **Databases & Tools:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL"/> MySQL &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="24" height="24" alt="PowerBI"/> Power BI &nbsp;
+<img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" width="24" height="24" alt="PowerBI"/> Power BI &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="24" height="24" alt="Selenium"/> Selenium &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git"/> Git/GitHub
 
