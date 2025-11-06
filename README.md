@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm M.S.Dimalsha Perera
 
-**Professional Software Engineer & Full-Stack Developer**  
-Negombo, Sri Lanka ・ [LinkedIn](https://www.linkedin.com/in/msdimalsha-perera/) ・ [Portfolio](https://dimalshaperera.pages.dev/)
+**Software Engineer & Full-Stack Developer**  
+Negombo, Sri Lanka ・ [LinkedIn](https://www.linkedin.com/in/msdimalsha-perera/) ・ [Portfolio](https://dimalshaperera.pages.dev/) ・ [Email](mailto:msdperera99@gmail.com)
 
 ---
 
@@ -13,38 +13,90 @@ Versatile and detail-oriented Software Engineer with expertise in full-stack dev
 
 ### 💻 Tech Stack & Tools
 
-<!-- Categorized horizontal tech stack, all icons aligned -->
+<!-- Categorized, horizontal tech stack WITH icon next to label for clarity/easy read; larger icons -->
+
 #### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="SQL" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" title="C++"/>
+<p align="left">
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+    <b>JavaScript</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
+    <b>Java</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>
+    <b>PHP</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+    <b>Python</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" title="SQL"/>
+    <b>SQL</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>
+    <b>C++</b>
+  </span>
 </p>
 
 #### Frameworks & Libraries
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32" alt="Express" title="Express"/>
+<p align="left">
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
+    <b>React</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
+    <b>Node.js</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express"/>
+    <b>Express</b>
+  </span>
 </p>
 
 #### Databases, BI & Automation
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="32" height="32" alt="Power BI" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32" height="32" alt="Selenium" title="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git"/>
+<p align="left">
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+    <b>MySQL</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" title="Power BI"/>
+    <b>Power BI</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium" title="Selenium"/>
+    <b>Selenium</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+    <b>Git</b>
+  </span>
 </p>
 
 #### Development Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="32" height="32" alt="Android Studio" title="Android Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" alt="VSCode" title="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="32" height="32" alt="IntelliJ" title="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="32" height="32" alt="NetBeans" title="NetBeans"/>
+<p align="left">
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" title="Android Studio"/>
+    <b>Android Studio</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" title="VSCode"/>
+    <b>VSCode</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+    <b>IntelliJ IDEA</b>
+  </span>&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" height="40" alt="NetBeans" title="NetBeans"/>
+    <b>NetBeans</b>
+  </span>
 </p>
 
 ---
@@ -60,12 +112,6 @@ Versatile and detail-oriented Software Engineer with expertise in full-stack dev
 - **[Anuradha Hardware](https://github.com/perera99-msd/Anuradha-Hardware)**  
   *Advanced e-commerce solution for hardware retail*
 
-- **[Coach Service App](https://github.com/perera99-msd/coach-service-app)**  
-  *Comprehensive service request management system*
-
-- **[MedicareApp](https://github.com/perera99-msd/MedicareApp)**  
-  *Java desktop platform for hospital operations*
-
 ---
 
 ### 📫 Let's Connect
@@ -75,6 +121,12 @@ Contact me via [LinkedIn](https://www.linkedin.com/in/msdimalsha-perera/) or [em
 
 ---
 
+<!-- Professional GitHub Stats card: compact and clean for a professional look -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perera99-msd&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" />
+  <a href="https://github.com/perera99-msd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=perera99-msd&theme=github_dark" alt="GitHub Profile Summary" />
+  </a>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perera99-msd&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perera99-msd&theme=github_dark" alt="GitHub Stats" />
 </p>
