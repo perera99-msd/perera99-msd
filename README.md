@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong> from Sri Lanka, holding First Class Honours in BSc Computer Science. I design, build, and deliver innovative, high-quality digital products from concept to deployment.
+I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong> from Sri Lanka. I design, build, and deliver innovative, high-quality digital products from concept to deployment.
 </p>
 
 ---
