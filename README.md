@@ -17,29 +17,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Overview
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=perera99-msd&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=14FAD2&text_color=c9d1d9&icon_color=F8D347&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perera99-msd&theme=2077&animation=true" alt="Top Languages" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perera99-msd&layout=compact&theme=react&bg_color=0D1117&title_color=14FAD2&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=perera99-msd&theme=react&bg_color=0D1117&fire=F8D347&ring=14FAD2&currStreakLabel=14FAD2&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=perera99-msd&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perera99-msd&theme=2077" alt="Repo Stats" />
       </td>
     </tr>
   </table>
+  
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perera99-msd&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br />
