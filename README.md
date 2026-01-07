@@ -1,151 +1,99 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=29&duration=4000&pause=1200&multiline=true&color=14FAD2&center=true&width=700&height=50&lines=PERERA'S+SPACE+🚀;FUL[...]
-  <h2 style="color: #F8D347; font-weight: bold;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=14FAD2&center=true&vCenter=true&width=600&lines=PERERA'S+SPACE+🚀;FULLSTACK+ENGINEER;UI%2FUX+SPECIALIST;BUILDING+THE+FUTURE" alt="Typing SVG" />
+  
+  <h3 style="color: #F8D347; font-family: sans-serif; font-weight: bold; margin-top: 10px;">
     Crafting scalable solutions & exceptional digital experiences.
-  </h2>
+  </h3>
 </div>
+
+<br />
 
 ---
 
 <p align="center">
-I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong> from Sri Lanka. I design, build, and deliver innovative, high-quality digital products from concept to deploy[...]
+  I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong> based in <strong>Sri Lanka 🇱🇰</strong>. <br/>
+  I design, build, and deliver innovative, high-quality digital products from concept to deployment. My focus is on writing clean, efficient code and creating intuitive user experiences.
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <table>
     <tr>
-      <td width="45%">
-        <!-- Replace with your own instance of GitHub Stats or use a fallback -->
-        <img src="https://github-readme-stats.vercel.app/api?username=perera99-msd&show_icons=true&count_private=true&theme=react&bg_color=1A1B27&title_color=14FAD2&text_color=f8d347&icon_color=F8D347&hide_border=true" alt="GitHub Stats" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x150?text=GitHub+Stats+Unavailable';"/>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=perera99-msd&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=14FAD2&text_color=c9d1d9&icon_color=F8D347&hide_border=true" alt="GitHub Stats" />
       </td>
-      <td width="45%">
-        <!-- Replace with your own instance of GitHub Top Langs or use a fallback -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perera99-msd&layout=donut&theme=react&bg_color=1A1B27&title_color=14FAD2&text_color=f8d347&hide_border=true" alt="Top Languages" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x150?text=Top+Languages+Unavailable';"/>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perera99-msd&layout=compact&theme=react&bg_color=0D1117&title_color=14FAD2&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
     <tr>
-      <td colspan="2">
-        <!-- GitHub Activity Graph with fallback -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=perera99-msd&theme=react-dark&bg_color=1A1B27&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300?text=GitHub+Activity+Unavailable';"/>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=perera99-msd&theme=react&bg_color=0D1117&fire=F8D347&ring=14FAD2&currStreakLabel=14FAD2&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=perera99-msd&theme=react-dark&bg_color=0D1117&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" />
       </td>
     </tr>
   </table>
 </div>
+
+<br />
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp,php,c" alt="Languages: Java, JavaScript, TypeScript, Python, C++, PHP, C" height="35" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,postgres" alt="Frameworks & Databases: React, Next.js, Node.js, Express, MySQL, MongoDB, PostgreSQL" height="35" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,idea,vscode" alt="Tools: Git, GitHub, Docker, AWS, Figma, IntelliJ, VS Code" height="35" />
-</p>
+<div align="center">
+  
+  **Languages**<br/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp,php,c" alt="Languages" height="45" />
+  <br/><br/>
+
+  **Frameworks & Databases**<br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,postgres,firebase" alt="Frameworks & Databases" height="45" />
+  <br/><br/>
+
+  **Tools & Platforms**<br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,idea,vscode,linux" alt="Tools" height="45" />
+
+</div>
 
 ---
 
 ## 🚀 Current Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="38" title="React 18" alt="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="38" title="Next.js" alt="Next.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" width="38" title="TypeScript" alt="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="38" title="Node.js" alt="Node.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="38" title="Docker" alt="Docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="38" title="AWS" alt="AWS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="38" title="AI/ML with Python" alt="Python" />&nbsp;
-</p>
-
----
-
-## 🌟 Featured Projects
-
 <div align="center">
-<details open>
-  <summary><b>✨ Highlights</b></summary>
-  <table>
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Stack</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/perera99-msd/Sphynx-Flicks" target="_blank"><strong>Sphynx-Flicks</strong></a>
-        </td>
-        <td>Movie Discovery Web App powered by TMDB API.</td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=react,nodejs" height="18" alt="React, Node.js">
-          <img src="https://img.shields.io/badge/API-green?logo=themoviedatabase&logoColor=white" height="16" alt="TMDB API">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/perera99-msd/Anuradha-Hardware" target="_blank"><strong>Anuradha-Hardware</strong></a>
-        </td>
-        <td>E-commerce platform with robust admin panel.</td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=php,mysql,javascript" height="18" alt="PHP, MySQL, JavaScript">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/perera99-msd/Soul-Sync" target="_blank"><strong>Soul-Sync</strong></a>
-        </td>
-        <td>Portfolio website for an events company.</td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=react,tailwindcss" height="18" alt="React, Tailwind CSS">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-<br>
-<details>
-  <summary><b>🔎 See All Projects</b></summary><br>
-  <a href="https://github.com/perera99-msd?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Browse_All_Repositories-14FAD2?style=for-the-badge&logo=github&logoColor=white" alt="Browse All Repositories">
-  </a>
-</details>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,docker,aws,python" alt="Current Focus" height="50" />
 </div>
+
+<br />
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/msdimalsha-perera/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:msdperera99@gmail.com" target="_blank" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
-  </a>&nbsp;
-  <a href="https://github.com/perera99-msd" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  </a>&nbsp;
-  <a href="https://dimalshaperera.pages.dev/" target="_blank" title="Portfolio">
-    <img src="https://skillicons.dev/icons?i=webflow" width="40" alt="Portfolio Site"/>
-  </a>&nbsp;
-  <a href="https://cal.com/msd-perera" target="_blank" title="Book a Meeting">
-    <img src="https://skillicons.dev/icons?i=calendar" width="40" alt="Book a Meeting"/>
+<div align="center">
+  <a href="https://linkedin.com/in/msdimalsha-perera/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-<br/>
+  <a href="mailto:msdperera99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://dimalshaperera.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-14FAD2?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://cal.com/msd-perera" target="_blank">
+    <img src="https://img.shields.io/badge/Book_Meeting-F8D347?style=for-the-badge&logo=google-calendar&logoColor=black" alt="Book Meeting" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
-  <h3 style="color:#F8D347;">
-    🚀 Open to collaborations, internships & innovative projects.
-  </h3>
-  <p>
-    <img src="https://img.shields.io/badge/Open_for_Tech_Talks-14FAD2?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Open for Tech Talks">
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=20&fontColor=14FAD2" width="100%" alt="Footer Wave" />
 </div>
