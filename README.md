@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=29&duration=4000&pause=1200&multiline=true&color=14FAD2&center=true&width=700&height=50&lines=PERERA'S+SPACE+🚀;FULLSTACK+ENGINEER;+UI%2FUX+SPECIALIST" alt="PERERA'S SPACE - FULLSTACK ENGINEER - UI/UX SPECIALIST" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=29&duration=4000&pause=1200&multiline=true&color=14FAD2&center=true&width=700&height=50&lines=PERERA'S+SPACE+🚀;FUL[...]
   <h2 style="color: #F8D347; font-weight: bold;">
     Crafting scalable solutions & exceptional digital experiences.
   </h2>
@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong> from Sri Lanka. I design, build, and deliver innovative, high-quality digital products from concept to deployment.
+I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialist</strong> from Sri Lanka. I design, build, and deliver innovative, high-quality digital products from concept to deploy[...]
 </p>
 
 ---
@@ -19,15 +19,18 @@ I'm a passionate <strong>Fullstack Engineer</strong> and <strong>UI/UX Specialis
   <table>
     <tr>
       <td width="45%">
-        <img src="https://github-readme-stats.vercel.app/api?username=perera99-msd&show_icons=true&count_private=true&theme=react&bg_color=1A1B27&title_color=14FAD2&text_color=f8d347&icon_color=F8D347&hide_border=true" alt="GitHub Stats" width="100%" style="max-width:280px" />
+        <!-- Replace with your own instance of GitHub Stats or use a fallback -->
+        <img src="https://github-readme-stats.vercel.app/api?username=perera99-msd&show_icons=true&count_private=true&theme=react&bg_color=1A1B27&title_color=14FAD2&text_color=f8d347&icon_color=F8D347&hide_border=true" alt="GitHub Stats" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x150?text=GitHub+Stats+Unavailable';"/>
       </td>
       <td width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perera99-msd&layout=donut&theme=react&bg_color=1A1B27&title_color=14FAD2&text_color=f8d347&hide_border=true" alt="Top Languages" width="100%" style="max-width:280px" />
+        <!-- Replace with your own instance of GitHub Top Langs or use a fallback -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perera99-msd&layout=donut&theme=react&bg_color=1A1B27&title_color=14FAD2&text_color=f8d347&hide_border=true" alt="Top Languages" onerror="this.onerror=null; this.src='https://via.placeholder.com/300x150?text=Top+Languages+Unavailable';"/>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=perera99-msd&theme=react-dark&bg_color=1A1B27&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" width="100%" style="max-width:600px" />
+        <!-- GitHub Activity Graph with fallback -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=perera99-msd&theme=react-dark&bg_color=1A1B27&color=14FAD2&line=F8D347&point=14FAD2&area=true&hide_border=true" alt="Contribution Graph" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300?text=GitHub+Activity+Unavailable';"/>
       </td>
     </tr>
   </table>
