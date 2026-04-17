@@ -79,7 +79,7 @@
   <a href="mailto:msdperera99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://dimalshaperera.pages.dev/" target="_blank">
+  <a href="https://dimalshaperera.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-14FAD2?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://cal.com/msd-perera" target="_blank">
